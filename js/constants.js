@@ -1,0 +1,1 @@
+export const BULLETS = 10000
